@@ -1,0 +1,24 @@
+{
+  "overview": "Premium website for Team Lycaura, a student Formula 1 team competing in F1 in Schools. Features a dark futuristic design with neon accents, interactive 3D car viewer, team showcase, sponsors section, and contact form.",
+  "features": [
+    "Interactive 3D F1 car model with rotate and zoom",
+    "F1 lights countdown loading animation",
+    "Dark theme with deep purple, neon blue, and silver accents",
+    "Team members grid with hover animations",
+    "Auto-scrolling sponsors carousel",
+    "Contact form with validation",
+    "Smooth scroll and section transitions",
+    "Fully responsive mobile and desktop layout"
+  ],
+  "category": "showcase",
+  "tags": [
+    "f1",
+    "motorsport",
+    "student-team",
+    "3d",
+    "dark-theme",
+    "animation",
+    "landing-page"
+  ],
+  "last_updated": "2026-05-06T04:43:17.382Z"
+}
